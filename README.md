@@ -3,7 +3,7 @@ OKState BAN 5753 Mini-Project 2: Pyspark MLlib
 
 
 
-![1](Hawks/1.JPG)
+![1](Hawks/1.jpg)
 
 
 
