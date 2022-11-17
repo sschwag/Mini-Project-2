@@ -2,6 +2,7 @@
 ##                                         Deposit Opening Classification Problem 
 
 
+![cover](Images/Picture1.jpg)
 
 ####   Meet the team
 
