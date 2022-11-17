@@ -10,10 +10,9 @@
 
   #      Problem Statement
   
-  Our goal is categorize customers based on their likelihood of responding “yes” or “no” to a bank’s telephone marketing campaign. The dataset included 41188 observations from May 2008 – November 2010, across 20 different columns. We performed EDA, univariate analysis, bivariate analysis, K-means clustering, and 5 different supervised learning methods on this data to familiarize ourselves with using  MLlib within PySpark.  
-
-
-
+  Our goal is categorize customers based on their likelihood of responding “yes” or “no” to a bank’s telephone marketing campaign. The dataset included 41188 observations from May 2008 – November 2010, across 20 different columns. We performed EDA, univariate analysis, bivariate analysis, K-means clustering, and 5 different supervised learning methods on this data to familiarize ourselves with using  MLlib within PySpark.
+  
+From this analysis, we saw that the Gradient-Boosted Tree performed the best of the five supervised learning methods. We also discovered in the bivariate analysis that the duration of a call is an important factor for determining the outcome. Calls that extend for longer time are more likely to result in a deposit than calls that are shorter.
 
 
 
@@ -133,3 +132,5 @@ We also tried using the joblib library and pickle library, but both times we rec
 ![28](Images/28.PNG)
 
 ![29](Images/29.PNG)
+
+Because of these errors, we were unable to export a serialized file of our best model. However, the model should be able to be reproduced using the attached notebook.
