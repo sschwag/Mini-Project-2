@@ -2,4 +2,4 @@
 OKState BAN 5753 Mini-Project 2: Pyspark MLlib
 
 
-![1_reading_data](Images/1_reading_data.png)
+![1_reading_data](Images/1.PNG)
