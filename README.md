@@ -8,7 +8,7 @@
 
 ![1](Images/Hawks.jpg)
 
-  #      Problem Statement
+  #      Summary
   
   Our goal is categorize customers based on their likelihood of responding “yes” or “no” to a bank’s telephone marketing campaign. The dataset included 41188 observations from May 2008 – November 2010, across 20 different columns. We performed EDA, univariate analysis, bivariate analysis, K-means clustering, and 5 different supervised learning methods on this data to familiarize ourselves with using  MLlib within PySpark.
   
